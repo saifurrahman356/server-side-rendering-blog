@@ -1,0 +1,9 @@
+# Dependencies
+**/node_modules/
+
+# Compiled TypeScript
+**/dist/
+
+# Environment files and local machine files
+**/.env
+.DS_Store
